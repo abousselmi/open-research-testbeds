@@ -1,4 +1,4 @@
-# Research Testbeds
+# Open Research Testbeds
 
 A list of available research testbeds. This list is maintained in best effort mode. Help is welcome.
 
