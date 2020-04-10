@@ -8,7 +8,7 @@ A list of available research testbeds. This list is maintained in best effort mo
   - GÉANT [https://www.geant.org/](https://www.geant.org/)
   - Grid5000 [https://www.grid5000.fr](https://www.grid5000.fr)
 
-## Cloud
+## Cloud Computing
 
   - Chameleon [https://www.chameleoncloud.org](https://www.chameleoncloud.org)
   - ExoGENI [http://www.exogeni.net](http://www.exogeni.net)
