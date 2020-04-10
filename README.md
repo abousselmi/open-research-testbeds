@@ -13,6 +13,9 @@ A list of available research testbeds. This list is maintained in best effort mo
   - Chameleon [https://www.chameleoncloud.org](https://www.chameleoncloud.org)
   - ExoGENI [http://www.exogeni.net](http://www.exogeni.net)
   - Virtual Wall [https://doc.ilabt.imec.be/ilabt/virtualwall/index.html](https://doc.ilabt.imec.be/ilabt/virtualwall/index.html)
+  - GENI [https://www.geni.net/](https://www.geni.net/)
+  - GÉANT [https://www.geant.org/](https://www.geant.org/)
+  - Grid5000 [https://www.grid5000.fr](https://www.grid5000.fr)
 
 ## Internet of Things (IoT)
 
@@ -30,6 +33,7 @@ A list of available research testbeds. This list is maintained in best effort mo
   - w-iLab [https://doc.ilabt.imec.be/ilabt/wilab/index.html](https://doc.ilabt.imec.be/ilabt/wilab/index.html)
   - FIT CorteXlab [http://www.cortexlab.fr](http://www.cortexlab.fr)
   - FIT R2Lab [https://r2lab.inria.fr](https://r2lab.inria.fr)
+  - ORBIT-Lab [https://www.orbit-lab.org/](https://www.orbit-lab.org/)
 
 ## High Performance Computing (HPC)
 
