@@ -7,6 +7,7 @@ A list of available research testbeds. This list is maintained in best effort mo
   - GENI [https://www.geni.net/](https://www.geni.net/)
   - GÉANT [https://www.geant.org/](https://www.geant.org/)
   - Grid5000 [https://www.grid5000.fr](https://www.grid5000.fr)
+  - Techtile [https://dramco.be/projects/techtile](https://dramco.be/projects/techtile)
 
 ## Cloud Computing
 
@@ -21,6 +22,7 @@ A list of available research testbeds. This list is maintained in best effort mo
 
   - FIT IoT-Lab [https://www.iot-lab.info/](https://www.iot-lab.info/)
   - CityLab [https://citylab.tech/](https://citylab.tech/)
+  - Techtile [https://dramco.be/projects/techtile](https://dramco.be/projects/techtile)
 
 ## Software Defined Networking (SDN)
 
@@ -34,6 +36,7 @@ A list of available research testbeds. This list is maintained in best effort mo
   - FIT CorteXlab [http://www.cortexlab.fr](http://www.cortexlab.fr)
   - FIT R2Lab [https://r2lab.inria.fr](https://r2lab.inria.fr)
   - ORBIT-Lab [https://www.orbit-lab.org/](https://www.orbit-lab.org/)
+  - Techtile [https://dramco.be/projects/techtile](https://dramco.be/projects/techtile)
 
 ## High Performance Computing (HPC)
 
